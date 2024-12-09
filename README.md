@@ -45,8 +45,8 @@ The suite automates functional tests for tasks, columns, and tags in a **Demo Ap
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
-   cd <repository-folder>
+   git clone https://github.com/Rodney-glitch/loopqa.git
+   cd loopqa
    ```
 
 2. Install dependencies:
